@@ -1,0 +1,13 @@
+{
+    "name": "bin/public_html",
+    "description": "Our composer file",
+    "authors": [
+        {
+            "name": "Daron Adkins",
+            "email": "daron@kerigan.com"
+        }
+    ],
+    "require": {
+        "rollbar/rollbar": "^1.1"
+    }
+}

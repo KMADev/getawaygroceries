@@ -1,0 +1,1219 @@
+2016-07-28 11:28:28 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:28:28 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:28:28 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:28:56 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:28:57 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:28:56 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:29:00 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:29:00 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:29:00 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:30:00 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:30:00 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:30:00 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:31:00 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:31:00 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:31:00 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:32:00 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:32:00 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:32:00 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:33:11 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:33:11 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:33:11 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:34:11 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:34:11 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:34:11 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:35:11 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:35:11 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:35:11 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:36:25 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:36:26 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:36:26 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:37:25 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:37:26 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:37:26 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:39:25 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:39:26 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:39:26 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:41:24 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:41:24 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:41:24 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:42:24 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:42:24 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:42:24 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:44:25 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:44:25 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:44:25 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:45:25 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:45:25 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:45:25 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:47:26 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:47:26 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:47:26 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:49:27 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:49:27 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:49:27 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:51:28 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:51:28 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:51:28 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 11:53:29 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 11:53:29 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 16:53:29 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:23:02 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:23:03 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:23:03 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:23:10 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:23:10 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:23:10 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:23:12 - DEBUG --> 
+            SELECT filtered.sort, l.*, d.field_number, d.value
+            FROM wp_rg_lead l
+            INNER JOIN wp_rg_lead_detail d ON d.lead_id = l.id
+            INNER JOIN
+            (
+                SELECT @rownum:=@rownum + 1 as sort, id
+                FROM
+                (
+                    SELECT distinct l.id
+                    FROM wp_rg_lead l
+                    INNER JOIN wp_rg_lead_detail d ON d.lead_id = l.id
+                    
+                    WHERE (l.form_id=12 AND l.status = 'active')
+                    ORDER BY (l.id+0) DESC
+                    LIMIT 0,20
+                ) page
+            ) filtered ON filtered.id = l.id
+
+            ORDER BY filtered.sort 
+2016-07-28 13:23:19 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:23:19 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:23:19 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:23:21 - DEBUG --> 
+            SELECT filtered.sort, l.*, d.field_number, d.value
+            FROM wp_rg_lead l
+            INNER JOIN wp_rg_lead_detail d ON d.lead_id = l.id
+            INNER JOIN
+            (
+                SELECT @rownum:=@rownum + 1 as sort, id
+                FROM
+                (
+                    SELECT distinct l.id
+                    FROM wp_rg_lead l
+                    INNER JOIN wp_rg_lead_detail d ON d.lead_id = l.id
+                    
+                    WHERE (l.form_id=11 AND l.status = 'active')
+                    ORDER BY (l.id+0) DESC
+                    LIMIT 0,20
+                ) page
+            ) filtered ON filtered.id = l.id
+
+            ORDER BY filtered.sort 
+2016-07-28 13:23:59 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:23:59 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:23:59 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:24:29 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:24:29 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:24:29 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:24:59 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:24:59 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:24:59 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:27:00 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:27:00 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:27:00 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:29:01 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:29:01 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:29:01 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:31:02 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:31:02 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:31:02 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 13:33:02 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 13:33:02 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 18:33:02 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 14:00:09 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 14:00:10 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 19:00:10 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:35:26 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:35:27 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:35:26 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:20 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:20 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:20 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:23 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:23 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:23 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:28 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:29 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:29 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:34 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:35 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:35 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:39 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:39 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:39 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:39 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/api.php?op=upgrade_message&key=cba943c6b1dbe40095096c3bbb0bd379 
+2016-07-28 16:42:39 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:39 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [set-cookie] => wordpress_test_cookie=WP+Cookie+check; path=/
+            [x-frame-options] => SAMEORIGIN
+            [strict-transport-security] => max-age=10886400
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 377
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => <!--GFM--><div class="hr-divider"></div>
+            <h3>Renew License</h3>
+            <div class="gf_renew_license alert_red">
+                <p class='gform_renew_expired'><strong>Warning! Your license key has expired.</strong> Renew it to continue your access to automatic upgrades and product support.</p>
+                <div style="margin-top:8px;">
+                    <a href="https://www.gravityhelp.com/wp-content/plugins/gravitymanager/api.php?op=renew&key=cba943c6b1dbe40095096c3bbb0bd379" class="gf_renew_link gf_button slick_button red_button">Renew Your Gravity Forms Developer License</a>
+                </div>
+            </div>
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => wordpress_test_cookie
+                    [value] => WP Cookie check
+                    [expires] => 
+                    [path] => /
+                    [domain] => www.gravityhelp.com
+                )
+
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:42 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:42 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:42 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
+2016-07-28 16:42:59 - DEBUG --> Posting to manager: https://www.gravityhelp.com/wp-content/plugins/gravitymanager/version.php? 
+2016-07-28 16:42:59 - DEBUG --> Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 28 Jul 2016 21:42:59 GMT
+            [server] => Apache/2.4.7
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.17
+            [vary] => Accept-Encoding
+            [content-encoding] => gzip
+            [content-length] => 515
+            [connection] => close
+            [content-type] => text/html
+        )
+
+    [body] => {"is_valid_key":"0","version":"2.0.3","url":"","expiration_time":1457244000,"offerings":{"gravityforms":{"is_available":true,"version":"2.0.3"},"gravityforms-beta":{"is_available":true,"version":"2.0-rc-1"},"gravityformsactivecampaign":{"is_available":true,"version":"1.3.1"},"gravityformsagilecrm":{"is_available":true,"version":"1.1"},"gravityformsauthorizenet":{"is_available":true,"version":"2.2"},"gravityformsaweber":{"is_available":true,"version":"2.3"},"gravityformsbatchbook":{"is_available":true,"version":"1.0"},"gravityformsbreeze":{"is_available":true,"version":"1.1"},"gravityformscampaignmonitor":{"is_available":true,"version":"3.4.1"},"gravityformscampfire":{"is_available":true,"version":"1.0"},"gravityformscapsulecrm":{"is_available":true,"version":"1.0"},"gravityformscleverreach":{"is_available":true,"version":"1.1"},"gravityformscoupons":{"is_available":true,"version":"2.2"},"gravityformsdebug":{"is_available":true,"version":""},"gravityformsdropbox":{"is_available":true,"version":"1.1.1"},"gravityformsemma":{"is_available":true,"version":"1.1"},"gravityformsfreshbooks":{"is_available":true,"version":"2.2"},"gravityformsgetresponse":{"is_available":true,"version":"1.0"},"gravityformshelpscout":{"is_available":true,"version":"1.3"},"gravityformshighrise":{"is_available":true,"version":"1.0"},"gravityformshipchat":{"is_available":true,"version":"1.0"},"gravityformsicontact":{"is_available":true,"version":"1.0"},"gravityformslogging":{"is_available":true,"version":"1.0"},"gravityformsmadmimi":{"is_available":true,"version":"1.0"},"gravityformsmailchimp":{"is_available":true,"version":"3.7.1"},"gravityformspartialentries":{"is_available":true,"version":"1.0-beta-2"},"gravityformspaypal":{"is_available":true,"version":"2.6"},"gravityformspaypalexpresscheckout":{"is_available":false,"version":""},"gravityformspaypalpaymentspro":{"is_available":true,"version":"2.0"},"gravityformspaypalpro":{"is_available":true,"version":"1.6"},"gravityformspicatcha":{"is_available":false,"version":"2.0"},"gravityformspolls":{"is_available":true,"version":"3.0"},"gravityformsquiz":{"is_available":true,"version":"3.0"},"gravityformssignature":{"is_available":true,"version":"3.1"},"gravityformsslack":{"is_available":true,"version":"1.3"},"gravityformsstripe":{"is_available":true,"version":"2.0"},"gravityformssurvey":{"is_available":true,"version":"3.0"},"gravityformstrello":{"is_available":true,"version":"1.0"},"gravityformstwilio":{"is_available":true,"version":"2.1"},"gravityformsuserregistration":{"is_available":true,"version":"3.3"},"gravityformszapier":{"is_available":true,"version":"1.9"},"gravityformszohocrm":{"is_available":true,"version":"1.2"}},"is_active":"1"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+ 
